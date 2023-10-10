@@ -12,3 +12,4 @@ A SCP: Secret Laboratory plugin that shows when the next respawn wave will happe
 When you first install the plugin, the `ExampleTimer` folder will be automatically downloaded. You are free to edit the config files inside this directory as you see fit. You can change how the timer looks like, hints etc. Removing `ExampleTimer` folder will redownload it once again after server restart.
 # Credits
 Plugin credits to Micha78900
+Update to EXILED 8 and support for SH and UIU by Misfiy
