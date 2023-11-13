@@ -110,7 +110,7 @@
 
             Log.Warn("Downloading ExampleTimer.zip...");
             client.DownloadFile(
-                $"https://github.com/Michal78900/RespawnTimer/releases/download/v{Version}/ExampleTimer.zip",
+                $"https://github.com/Misfiy/RespawnTimer/releases/download/{Version}/ExampleTimer.zip",
                 exampleTimerZip);
 
             Log.Info("ExampleTimer.zip has been downloaded!");
@@ -127,7 +127,7 @@
 
         public override string Name => "RespawnTimer";
         public override string Author => "Michal78900, Support for SH and UIU by @misfiy";
-        public override Version Version => new(4, 0, 3);
+        public override Version Version => new(4, 0, 4);
         public override Version RequiredExiledVersion => new(8, 2, 1);
         public override PluginPriority Priority => PluginPriority.Last;
     }
