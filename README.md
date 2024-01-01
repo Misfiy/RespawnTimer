@@ -1,3 +1,6 @@
+# ARCHIVED
+* This has been archived. For further updates, head to [Michal's Github](https://github.com/Michal78900/RespawnTimer/)
+
 # RespawnTimer ![Downloads](https://img.shields.io/github/downloads/Misfiy/RespawnTimer/total)
 A SCP: Secret Laboratory plugin that shows when the next respawn wave will happen.
 
